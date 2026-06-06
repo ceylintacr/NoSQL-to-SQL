@@ -1,0 +1,44 @@
+{
+  "siparis_no": "ORD-2026-001",
+  "tarih": "2026-05-19",
+  "musteri": {
+    "id": 42,
+    "ad": "Zeynep",
+    "soyad": "Kaya",
+    "adres": {
+      "sehir": "Ankara",
+      "ilce": "Çankaya",
+      "detay": {
+        "sokak": "Tunalı Hilmi Cd.",
+        "no": 15
+      }
+    }
+  },
+  "urunler": [
+    {
+      "urun_id": "P-001",
+      "ad": "Laptop",
+      "fiyat": 25000,
+      "kategoriler": ["elektronik", "bilgisayar"],
+      "stok": {
+        "depo": "Ana Depo",
+        "adet": 12
+      }
+    },
+    {
+      "urun_id": "P-002",
+      "ad": "Klavye",
+      "fiyat": 450.75,
+      "kategoriler": ["elektronik", "aksesuar", "ofis"],
+      "stok": {
+        "depo": "Yan Depo",
+        "adet": 50
+      }
+    }
+  ],
+  "odeme": {
+    "yontem": "Kredi Kartı",
+    "taksit": 6,
+    "tutar": 25450.75
+  }
+}

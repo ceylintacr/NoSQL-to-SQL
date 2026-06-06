@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "ad": "Ayşe",
+  "adres": {
+    "sehir": "Kocaeli",
+    "ilce": "İzmit"
+  },
+  "telefonlar": ["555-1111", "555-2222"]
+}

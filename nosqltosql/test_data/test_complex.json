@@ -1,0 +1,24 @@
+{
+  "id": 100,
+  "ad": "Ayşe",
+  "adres": {
+    "sehir": "İstanbul",
+    "ilce": "Kadıköy",
+    "koordinat": {
+      "enlem": 40.99,
+      "boylam": 29.03
+    }
+  },
+  "siparisler": [
+    {
+      "siparis_id": "S001",
+      "tutar": 250.5,
+      "urunler": ["kalem", "defter"]
+    },
+    {
+      "siparis_id": "S002",
+      "tutar": 100,
+      "urunler": ["silgi"]
+    }
+  ]
+}

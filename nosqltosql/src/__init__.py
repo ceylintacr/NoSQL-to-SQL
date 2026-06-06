@@ -1,0 +1,1 @@
+#klasorun python paketi olarak kabul edilmesi icin ekledik.

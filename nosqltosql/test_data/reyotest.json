@@ -1,0 +1,48 @@
+{
+  "kullanici_id": 101,
+  "ad": "Ahmet",
+  "soyad": "Yılmaz",
+  "aktif_mi": true,
+  "iletisim": {
+    "eposta": "ahmet@example.com",
+    "adres": {
+      "sehir": "Kocaeli",
+      "ilce": "İzmit",
+      "mahalle": "Umuttepe"
+    }
+  },
+  "telefonlar": [
+    "05321234567",
+    "05059876543"
+  ],
+  "siparisler": [
+    {
+      "siparis_no": "ORD-001",
+      "tarih": "2026-05-15",
+      "tutar": 1250.50,
+      "teslimat_adresi": {
+        "sehir": "Kocaeli",
+        "ilce": "İzmit",
+        "detay": "KYK Yurdu B Blok"
+      },
+      "urunler": [
+        {
+          "urun_kodu": "PRD-10",
+          "isim": "Mekanik Klavye",
+          "kategori": {
+            "ana_kategori": "Elektronik",
+            "alt_kategori": "Bilgisayar Bileşenleri"
+          }
+        },
+        {
+          "urun_kodu": "PRD-22",
+          "isim": "Termal Macun",
+          "kategori": {
+            "ana_kategori": "Elektronik",
+            "alt_kategori": "Sarf Malzemeleri"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "ad": "Ahmet",
+    "yas": 30,
+    "eposta": null,
+    "puan": 75
+  },
+  {
+    "id": 2,
+    "ad": "Ayşe",
+    "yas": null,
+    "eposta": "ayse@example.com",
+    "puan": 88.5
+  },
+  {
+    "id": 3,
+    "ad": "Veli",
+    "yas": 25,
+    "eposta": "veli@example.com",
+    "puan": null
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "kullanici_id": 1,
+  "ad": "Mehmet",
+  "konum": {
+    "ulke": {
+      "ad": "Türkiye",
+      "kod": "TR",
+      "bolge": {
+        "ad": "Marmara",
+        "il": {
+          "ad": "Kocaeli",
+          "ilce": {
+            "ad": "İzmit",
+            "mahalle": {
+              "ad": "Cedit",
+              "posta_kodu": "41000"
+            }
+          }
+        }
+      }
+    }
+  }
+}
